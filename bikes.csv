@@ -1,4 +1,4 @@
-work_day,temp,humidity,wind_speed,cnt
+work_day,temp,humidity,wind_speed,num_bikes
 0,0.344167,0.805833,0.160446,985
 0,0.363478,0.696087,0.248539,801
 1,0.196364,0.437273,0.248309,1349
